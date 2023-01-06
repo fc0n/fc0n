@@ -16,8 +16,6 @@
     <img align="center" height="70" width="50" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </div>
 </div>
-  
-![Snake animation](https://github.com/fc0n/fc0n/blob/output/github-contribution-grid-snake.svg)
 
 <p>
   <a href="https://www.linkedin.com/in/jean-gabriel-9b9924203/" alt="LinkedIn Jean Gabriel" target="_blank">
