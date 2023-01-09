@@ -17,8 +17,6 @@
    </div>
 </div>
 
-![Snake animation](https://github.com/fc0n/fc0n/blob/output/github-contribution-grid-snake.svg)
-
 <p>
   <a href="https://www.linkedin.com/in/jean-gabriel-9b9924203/" alt="LinkedIn Jean Gabriel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
